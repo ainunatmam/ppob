@@ -39743,7 +39743,7 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("li", { staticClass: "sidebar-brand" }, [
       _c("a", { attrs: { href: "#" } }, [
-        _vm._v("\n                      Start Bootstrap\n                  "),
+        _vm._v("\n                      Simple PPOB\n                  "),
       ]),
     ])
   },
